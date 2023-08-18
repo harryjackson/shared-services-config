@@ -1,4 +1,4 @@
 server:
   name: ssp-tool-service
   description: Just a demo
-  updateme: 1000
+  updateme: 5000
