@@ -1,4 +1,5 @@
 server:
+  port: 9100
   name: ssp-tool-service
   description: Just a demo
   updateme: 10000
