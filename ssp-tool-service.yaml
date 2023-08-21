@@ -2,4 +2,4 @@ server:
   name: ssp-tool-service
   description: Just a demo
   updateme: 10000
-  mysecret: '{cipher:cd83448109b48625e902ee1c28b7ee229fc93fd9a10ec3fbfb7044be4ef571b468fbd833b5dd206f79090a2d09f1d40b}
+  mysecret: '{cipher}cd83448109b48625e902ee1c28b7ee229fc93fd9a10ec3fbfb7044be4ef571b468fbd833b5dd206f79090a2d09f1d40b'
