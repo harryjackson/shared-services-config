@@ -1,0 +1,5 @@
+server:
+  name: dev
+  var100: var100
+  var200: var200
+  secret: '{cipher}00ae6b8359e0ea7d5a6db77fa26b4026e722f4a87374068608e0aca4c47f958d5b379cd769a47d99d46a5d1912786ef2'
