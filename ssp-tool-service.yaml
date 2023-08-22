@@ -1,0 +1,10 @@
+server:
+  port: 9100
+  name: ssp-tool-service
+  description: Just a demo
+  updateme: 10000
+  mysecret1: '{cipher}68d4655af8791850f65951959fe2b8d1c25e0b27f32a78af785008a96583ffd8'
+  mysecret2: '{cipher}68d4655af8791850f65951959fe2b8d1c25e0b27f32a78af785008a96583ffd8'
+
+management:
+  port: 9101
