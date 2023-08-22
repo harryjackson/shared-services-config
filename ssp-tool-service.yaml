@@ -3,7 +3,8 @@ server:
   name: ssp-tool-service
   description: Just a demo
   updateme: 10000
-  mysecret: '{cipher}cd83448109b48625e902ee1c28b7ee229fc93fd9a10ec3fbfb7044be4ef571b468fbd833b5dd206f79090a2d09f1d40b'
+  mysecret1: '{cipher}933a06736237b9c2f8db75be5d79c16083184968dba5744a92eb269e3aa4da373b8c7c6370df188418339ce103746bb3'
+  mysecret2: '{cipher}92c87a275b2ac15391ba79807bd5350e23b4b654b0570169a78d8174a14169bd402848c49c7b0340d16ca2d4b697c96f'
 
 management:
   port: 9101
