@@ -1,11 +1,12 @@
 server:
-  port: 5042
+  port: 10042
   tomcat:
-    max-threads: 1
+    threads:
+      max: 20
 
 management:
   server:
-    port: 5043
+    port: 10043
   endpoint:
     gateway:
       enabled: true
