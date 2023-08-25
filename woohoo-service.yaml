@@ -1,5 +1,0 @@
-server:
-  port: 9111
-
-management:
-  port: 9112
