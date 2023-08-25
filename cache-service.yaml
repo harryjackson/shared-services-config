@@ -1,2 +1,16 @@
 server:
-  port: 5004
+  port: 5005
+  tomcat:
+    max-threads: 1
+
+management:
+  server:
+    port: 5006
+  endpoint:
+    gateway:
+      enabled: true
+  endpoints:
+    web:
+      exposure:
+        include: "*"  
+

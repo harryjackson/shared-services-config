@@ -1,2 +1,14 @@
 server:
   port: 5008
+
+management:
+  server:
+    port: 5009
+  endpoint:
+    gateway:
+      enabled: true
+  endpoints:
+    web:
+      exposure:
+        include: "*"  
+

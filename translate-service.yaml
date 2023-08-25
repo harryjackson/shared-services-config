@@ -1,2 +1,14 @@
 server:
   port: 5025
+
+management:
+  server:
+    port: 5026
+  endpoint:
+    gateway:
+      enabled: true
+  endpoints:
+    web:
+      exposure:
+        include: "*"  
+
