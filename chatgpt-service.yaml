@@ -2,7 +2,7 @@ server:
   port: 10014
   tomcat:
     threads:
-      max: 20
+      max: 2
 
 management:
   server:

@@ -1,0 +1,16 @@
+server:
+  port: 10148
+  tomcat:
+    threads:
+      max: 2
+
+management:
+  server:
+    port: 10149
+  endpoint:
+    gateway:
+      enabled: true
+  endpoints:
+    web:
+      exposure:
+        include: "*"

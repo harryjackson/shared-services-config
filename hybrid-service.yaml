@@ -2,7 +2,7 @@ server:
   port: 10030
   tomcat:
     threads:
-      max: 20
+      max: 2
 
 management:
   server:
