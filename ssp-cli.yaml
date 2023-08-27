@@ -1,3 +1,6 @@
 server:
   description: Command Line Interface doing all the magic
   name: ssp-cli
+  updateme: 1000
+  mysecret1: "{cipher}5c6adb131a3bd350c98b089e4fea4b5764feb6cd6ca6ad26270daf25e0760610"
+  mysecret2: "{cipher}cc22e8838e119c6ca600f60db8a4db8268ce21e256ccfac7d14ce17d2f7eeb4cc77f5a6e80dfda8ec7e7ae118cd47584"
