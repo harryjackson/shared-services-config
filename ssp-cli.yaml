@@ -1,2 +1,3 @@
 server:
+  description: Command Line Interface doing all the magic
   name: ssp-cli

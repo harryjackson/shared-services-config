@@ -1,0 +1,16 @@
+server:
+  port: 10330
+  tomcat:
+    threads:
+      max: 2
+
+management:
+  server:
+    port: 10331
+  endpoint:
+    gateway:
+      enabled: true
+  endpoints:
+    web:
+      exposure:
+        include: "*"

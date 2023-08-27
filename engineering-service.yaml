@@ -1,12 +1,12 @@
 server:
-  port: 10184
+  port: 10204
   tomcat:
     threads:
       max: 2
 
 management:
   server:
-    port: 10185
+    port: 10205
   endpoint:
     gateway:
       enabled: true
