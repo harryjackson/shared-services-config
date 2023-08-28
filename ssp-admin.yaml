@@ -1,0 +1,5 @@
+server:
+  name: admin-demo
+  var100: var1000000
+  var200: var2000000
+  secret: '{cipher}c8ea67d72f8dbbf01c52351251e6a60475c16e8b29371cd0c4476d977ecf50fab5aa64dc781216ba5db68f07a7ba0593'
