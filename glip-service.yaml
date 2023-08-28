@@ -1,0 +1,16 @@
+server:
+  port: 5064
+  tomcat:
+    max-threads: 1
+
+management:
+  server:
+    port: 5065
+  endpoint:
+    gateway:
+      enabled: true
+  endpoints:
+    web:
+      exposure:
+        include: "*"  
+

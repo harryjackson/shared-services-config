@@ -1,16 +1,16 @@
 server:
-  port: 10024
+  port: 5026
   tomcat:
-    threads:
-      max: 2
+    max-threads: 1
 
 management:
   server:
-    port: 10025
+    port: 5027
   endpoint:
     gateway:
       enabled: true
   endpoints:
     web:
       exposure:
-        include: "*"
+        include: "*"  
+

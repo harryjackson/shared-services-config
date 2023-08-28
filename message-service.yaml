@@ -1,0 +1,16 @@
+server:
+  port: 5090
+  tomcat:
+    max-threads: 1
+
+management:
+  server:
+    port: 5091
+  endpoint:
+    gateway:
+      enabled: true
+  endpoints:
+    web:
+      exposure:
+        include: "*"  
+

@@ -1,0 +1,16 @@
+server:
+  port: 5128
+  tomcat:
+    max-threads: 1
+
+management:
+  server:
+    port: 5129
+  endpoint:
+    gateway:
+      enabled: true
+  endpoints:
+    web:
+      exposure:
+        include: "*"  
+
