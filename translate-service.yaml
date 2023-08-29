@@ -1,11 +1,11 @@
 server:
-  port: 5138
+  port: 5070
   tomcat:
     max-threads: 1
 
 management:
   server:
-    port: 5139
+    port: 5071
   endpoint:
     gateway:
       enabled: true

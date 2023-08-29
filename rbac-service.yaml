@@ -1,11 +1,11 @@
 server:
-  port: 5116
+  port: 5064
   tomcat:
     max-threads: 1
 
 management:
   server:
-    port: 5117
+    port: 5065
   endpoint:
     gateway:
       enabled: true
