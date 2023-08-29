@@ -1,0 +1,3 @@
+serviceconfig:
+  description: This came from the configuration server
+testing: testing
