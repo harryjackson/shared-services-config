@@ -1,0 +1,3 @@
+server:
+  name: ssp-demo-service
+  description: Just a demo
