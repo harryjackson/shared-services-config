@@ -1,3 +1,3 @@
 ssp:
   observe:
-    appenders: loki,testing,console
+    appenders: testing,console
